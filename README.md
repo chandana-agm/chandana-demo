@@ -1,5 +1,5 @@
 # chandana-demo
 This is my first git repository.
 <br>
-Author - Chandana
+Author - Chandana (chandana-demo)
 
